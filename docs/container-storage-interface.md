@@ -15,3 +15,4 @@
 - [kubernetes-csi](https://github.com/kubernetes-csi)
 - [gocsi](https://github.com/rexray/gocsi)
 - [fastcfs-csi](https://github.com/happyfish100/fastcfs-csi)
+- [s3fs](https://github.com/s3fs-fuse/s3fs-fuse)
